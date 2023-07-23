@@ -1,0 +1,35 @@
+# Ignore the virtual environment directory
+pythonProjectEnv/
+# Ignore the settings file (each developer may have their own local settings)
+/automax/settings.py
+# Ignore database files (if using SQLite)
+db.sqlite3
+
+# Ignore migration files (these are auto-generated)
+/myapp/migrations/
+
+# Ignore static files collected for production
+/static/
+
+# Ignore media files uploaded by users
+/media/
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore editor-specific files (example: Visual Studio Code)
+.vscode/
+
+# Ignore IDE-specific project files (example: PyCharm)
+.idea/
+*.iml
+
+# Ignore OS-specific files (example: macOS)
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore cache directories
+__pycache__/
