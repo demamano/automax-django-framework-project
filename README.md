@@ -1,5 +1,5 @@
-# django-framework-autox-project
-## The Complete Django & Python Developer Course
+
+## django-framework-autox-project
 
 <h1 align="center">Source Code - AutoMax</h1>
 <div align="center">
@@ -21,19 +21,7 @@
 </div>
 </p>
 
-### Udemy
 
-<a href="https://www.udemy.com/course/draft/4490498/?referralCode=871E60737E1887EF63E1">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" alt="Udemy Course Link" width="200">
-</a>
 
-### Discord
 
-<a href="https://discord.gg/bUV8ssnWfB">
-<img src="https://www.cemetech.net/media/news_attachment/903/discordimage.png" alt="Discord Link" width="200">
-</a>
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
