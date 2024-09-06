@@ -1,4 +1,4 @@
-## django-framework-autox-project
+## django-framework-automax-project
 
 <h1 align="center">Source Code - AutoMax</h1>
 <div align="center">
